@@ -1,0 +1,17 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+
+body{
+     background-color: #FFFFE0;
+     color: #FFE4E1;
+     margin: 0px;
+     margin-bottom: 100px;
+}
+
+header{
+
+    background-color: #E0FFFF;
+}

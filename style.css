@@ -5,8 +5,8 @@ padding: 0;
 }
 
 body{
-     background-color: #FFFFE0;
-     color: #FFE4E1;
+     background-color: #FFE4E1;
+     color: #4682b4;
      margin: 0px;
      margin-bottom: 100px;
 }
@@ -27,4 +27,27 @@ display: flex;
 flex-direction: column;
 align-items: center;
 justify-content: center;
+}
+
+
+.cointainr{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+margin-top: 50px;
+width:80%;
+}
+
+#imagem {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 260px;
+    width: 70%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+
 }
